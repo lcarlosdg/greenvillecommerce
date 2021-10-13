@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Saira+Semi+Condensed:wght@500&display=swap');
+
+
+
+
+.my-font{
+font-family: 'Cinzel', serif;
+color: black;
+}
+
+.carousel-text {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-size: 40px;
+  font-family: 'Michroma', sans-serif;
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.my-second-font {
+  font-family: 'Michroma', sans-serif;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font size: 20px;
+}
+
+
+.nav-text {
+  color: #FFFFFF;
+  font-family: 'Michroma', sans-serif;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font size: 40px;
+  padding-right: 20px;
+}
